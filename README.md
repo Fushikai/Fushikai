@@ -19,8 +19,8 @@ Habilitação Profissional Técnica de Nível Médio de Técnico em Informática
 
 <div>
 <a href="https://github.com/Fushikai">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fushikai&show_icons=true&theme=transparent"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fushikai&show_icons=true&bg_color=00000000"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Fushikai&show_icons=true&theme=transparent"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fushikai&show_icons=true&bg_color=00000000"/>
 </div>
 <div style="display: inline_block"><br>
 <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
