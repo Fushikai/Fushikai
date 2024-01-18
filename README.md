@@ -1,7 +1,7 @@
 ### Olá bem vindo ao meu GitHub 
 👩🏻‍💻 Me chamo Fernanda e aqui irei disponibilizar algumas informações sobre mim.
 
-Possuo Pós graduação em MBA Gestão e Tecnologia em Segurança da Informação – Daryus – Em andamento, previsão 11/2023.</br>
+Possuo Pós graduação em MBA Gestão e Tecnologia em Segurança da Informação – Daryus.</br>
 Graduação: Tecnologia em Análise e Desenvolvimento de Sistemas – Instituto Federal de Educação, Ciência e Tecnologia de São Paulo – IFSP</br>
 Habilitação Profissional Técnica de Nível Médio de Técnico em Informática para Internet – ETEC Parque da Juventude.
 <p>Possuo certificação em:
